@@ -1,0 +1,20 @@
+.TimerBox {
+  background-color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 200px;
+  height: 200px;
+  border-radius: 1rem;
+}
+
+.number {
+  color: #00ffcc;
+  font-size: 5rem;
+}
+
+.text {
+  color: white;
+  font-size: 1.5rem;
+}

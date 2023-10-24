@@ -1,0 +1,18 @@
+.TimerFunction {
+  display: flex;
+  margin: 0 20vw;
+  margin-top: 30vh;
+  justify-content: space-evenly;
+}
+
+.buttons {
+  display: flex;
+  margin: 15vh 20vw;
+  justify-content: space-evenly;
+}
+
+.buttons button {
+  font-size: 2rem;
+  border-radius: 0.7rem;
+  padding: 0.3rem 1.7rem;
+}
